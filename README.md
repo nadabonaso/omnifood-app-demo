@@ -1,2 +1,2 @@
 # omnifood-app-demo
-This is a demo app landing page showcasing responsive HTML and CSS.
+This is a fully responsive mobile app landing page built with HTML5, CSS and a small amount of JavaScript. It also has a working contact form utilizing Netlify.
